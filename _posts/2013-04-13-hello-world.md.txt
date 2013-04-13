@@ -1,0 +1,3 @@
+layout: default
+title: my blog
+你妹妹妹
