@@ -1,1 +1,20 @@
-baseurl: /gitwebpage
+baseurl:       /
+auto:          true
+permalink:     pretty
+
+title:         RoyHE
+baseurl:       /gitwebpage
+
+paginate:      5
+
+pygments:      false
+markdown:      rdiscount
+exclude:       ['README.md']
+
+author:
+    name:      RoyHE
+    weibo:  	http://weibo.com/u/1583427910
+    gmail:     hry1225@gmail.com
+    designer:  http://www.philipithomas.com/
+
+description:   I am what I am
