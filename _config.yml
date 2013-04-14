@@ -1,15 +1,14 @@
-baseurl:       /
+baseurl:       /gitwebpage
 auto:          true
 permalink:     pretty
 
 title:         RoyHE
-baseurl:       /gitwebpage
+ 
 
 paginate:      5
 
 pygments:      false
 markdown:      rdiscount
-exclude:       ['README.md']
 
 author:
     name:      RoyHE
