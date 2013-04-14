@@ -1,8 +1,9 @@
-baseurl:       /gitwebpage
+baseurl:       /
 auto:          true
 permalink:     pretty
 
 title:         RoyHE
+url:           http://royhe.github.io/gitwebpage/
  
 
 paginate:      5
